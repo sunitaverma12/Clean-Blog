@@ -24,7 +24,7 @@ app.config['MAIL_USE_SSL'] = True
 mail = Mail(app)
 
 
-
+# for database connection
 if(local_server):
 
     app.config['SQLALCHEMY_DATABASE_URI'] = params['local_uri']

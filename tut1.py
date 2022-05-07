@@ -91,6 +91,7 @@ def post_route(post_slug):
 def about():
 
     return render_template('about.html', params=params)
+# this is url for dashboard
 @app.route("/dashboard", methods=['GET','POST'])
 def dashboard():
     print("user" in session)

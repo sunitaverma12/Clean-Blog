@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://newuser:password@localhost/firstdatabase",
+    "prod_uri": "mysql://newuser:password@localhost/firstdatabase",
+    "fb_url":  "https://facebook.come/firstdatabase",
+    "tw_url": "https://twitter.com/firstdatabase",
+    "gh_url": "https://github.com/firstdatabase",
+    "blog_name": "Coding Thunder",
+    "gmail-user":"techiesverma@gmail.com",
+    "gmail-password": "sunitaverma@420",
+    "about_text": "Hi my name is sunita verma and i am a good girl.",
+    "no_of_posts": 2,
+    "login_image":"img_1.png",
+    "admin_user":"sunita",
+    "admin_password":"subscribenow",
+    "upload_location": "~//pythonProject//flack.sunita"
+
+  }
+
+}

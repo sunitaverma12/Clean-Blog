@@ -179,8 +179,6 @@ def uploader():
             return "Uploaded successfully!"
 
 
-
-
 @app.route("/contact", methods=['GET', 'POST'])
 def contact():
     if(request.method == 'POST'):
